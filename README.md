@@ -1,2 +1,2 @@
-# AmateurExtraClass
-Amateur Radio Question Pool - Right Answers Only
+# Amateur Extra Class Study Guide
+Question Pool - Right Answers Only
